@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>The Fitness World | Resort</title>
+	</head>
+	</body>
+		<!--NAV -->
+		<div>
+			<div>
+				<ul>
+					<li>HOME</li>
+					<li>GALLERY</li>
+					<li>Schedule</li>
+				</ul>
+			</div>
+		</div>
+		<!--END NAV -->
+		
+		<!--HOME-->
+		<div>
+			<div>
+				<div>
+					<span>

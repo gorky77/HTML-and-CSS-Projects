@@ -1,0 +1,14 @@
+.container{
+    width: 450px;
+    height: 450px;
+    background-color: #faebd7 ;
+    border 2px solid black;
+    border-radius: 5%;
+}
+
+/*------------------------------------
+      SELECT ALL SQUARES IN THE ARRAY
+ -------------------------------------*/
+ .container .squares:nth-child(-n+4) {
+    background-image: url("HTML-and-CSS-Projects/icons.png");
+ }

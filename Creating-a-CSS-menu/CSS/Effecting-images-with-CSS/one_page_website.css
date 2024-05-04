@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>Gorkem | Resort</title>
+
+
+
+/* CSS for one_page_website.css */
+
+/* Specify font family */
+body {
+    font-family: Arial, sans-serif; /* Use Arial font if available, otherwise use a generic sans-serif font */
+}
+
+/* Specify font size */
+h1 {
+    font-size: 24px; /* Font size for heading 1 */
+}
+
+p {
+    font-size: 16px; /* Font size for paragraphs */
+}
+
+/* CSS for one_page_website.css */
+
+/* Style the form inputs */
+input[type="text"], input[type="email"], textarea {
+    width: 100%; /* Set the width of the inputs to 100% */
+    margin-bottom: 10px; /* Set margin bottom between the inputs */
+    padding: 10px; /* Add padding to the inputs */
+    border: 1px solid #ccc; /* Add border to the inputs */
+    border-radius: 5px; /* Add border radius to the inputs */
+}
+/* Style the submit button */
+input[type="submit"] {
+    width: 100%; /* Set the width of the submit button to 100% */
+    padding: 10px; /* Add padding to the submit button */
+    border: none; /* Remove border from the submit button */
+    background-color: #007bff; /* Set background color of the submit button */
+    color: #fff; /* Set text color of the submit button */
+}
